@@ -35,7 +35,6 @@
 <details>
 <summary>Functionality added</summary>
 <br/>
-
 - Initially,
   - Score will be `0` and time will be `60` sec
   - The image to be matched will have the src attribute value as the value of the key `imageUrl` from the first object in **imagesList** provided
