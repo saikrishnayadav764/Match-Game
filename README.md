@@ -67,8 +67,6 @@
 
 </details>
 
-
-
 ### Resources
 
 <details>
