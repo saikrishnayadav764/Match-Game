@@ -8,7 +8,6 @@
     <source src="https://assets.ccbp.in/frontend/content/react-js/match-game-output.mp4" type="video/mp4">
   </video>
 </div>
-<br/>
 
 ### Design Files
 
